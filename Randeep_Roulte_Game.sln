@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Randeep_Roulte_Game", "Randeep_Roulte_Game\Randeep_Roulte_Game.csproj", "{10BFD725-2566-4384-9FE9-05C1835DA7EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Randeep_Roulte_GameTests", "Randeep_Roulte_GameTests\Randeep_Roulte_GameTests.csproj", "{5EAF37E7-92A4-4439-94B3-2B5F23DDC4FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10BFD725-2566-4384-9FE9-05C1835DA7EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10BFD725-2566-4384-9FE9-05C1835DA7EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10BFD725-2566-4384-9FE9-05C1835DA7EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10BFD725-2566-4384-9FE9-05C1835DA7EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EAF37E7-92A4-4439-94B3-2B5F23DDC4FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EAF37E7-92A4-4439-94B3-2B5F23DDC4FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EAF37E7-92A4-4439-94B3-2B5F23DDC4FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EAF37E7-92A4-4439-94B3-2B5F23DDC4FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED73A0DF-8685-4A2B-989C-D092175D3592}
+	EndGlobalSection
+EndGlobal
