@@ -36,7 +36,7 @@ namespace Randeep_Roulte_Game
             button2.Enabled = true;
             button1.Enabled = false;
             button6.Visible = false;
-            label1.Text = bullet + "";
+            
         }
 
         private void button6_Click(object sender, EventArgs e)
