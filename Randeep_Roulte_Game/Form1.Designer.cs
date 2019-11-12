@@ -118,9 +118,9 @@
             // 
             // pbphoto
             // 
-            this.pbphoto.Location = new System.Drawing.Point(631, 40);
+            this.pbphoto.Location = new System.Drawing.Point(509, 40);
             this.pbphoto.Name = "pbphoto";
-            this.pbphoto.Size = new System.Drawing.Size(167, 142);
+            this.pbphoto.Size = new System.Drawing.Size(289, 280);
             this.pbphoto.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pbphoto.TabIndex = 7;
             this.pbphoto.TabStop = false;
@@ -136,6 +136,7 @@
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox1.TabIndex = 0;
             this.pictureBox1.TabStop = false;
+            this.pictureBox1.Click += new System.EventHandler(this.pictureBox1_Click);
             // 
             // button6
             // 

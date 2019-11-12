@@ -20,7 +20,7 @@ namespace Randeep_Roulte_Game
         }
         // method to generate the shoot 
         public int gen() {
-            return rd.Next(1, 4);
+            return rd.Next(1, 7);
         }
         //method to generate the shoot away trigger 
         public int gen2()
